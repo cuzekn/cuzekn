@@ -1,2 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuzekn&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuzekn&show_icons=true&theme=radical&hide=stars,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuzekn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
